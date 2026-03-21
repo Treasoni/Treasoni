@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/微信图片_20260319095149_362_35.jpg" width="120" height="120" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Avatar">
 
-  # ⚡ Hi, I'm Treasoni (zhqznc)
+  # ⚡ Hi, I'm Treasoni 
 
   <p>🎓 <b>2026 Postgraduate Candidate</b> | 🤖 <b>AI & Agent Explorer</b> | 🔌 <b>Hardware Enthusiast</b></p>
 
