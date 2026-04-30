@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(ls -la /Users/zhqznc/Documents/Treasoni/*.png)",
-      "Bash(find /Users/zhqznc/Documents/Treasoni -name *.png -o -name *.jpg -o -name *.jpeg)"
-    ]
-  }
-}

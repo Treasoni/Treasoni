@@ -1,0 +1,12 @@
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+
+# Claude Code 本地设置（含本机路径）
+.claude/settings.json
+
+# 本地环境配置
+.env
+.env.*
+*.env
